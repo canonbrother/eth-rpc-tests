@@ -21,7 +21,7 @@ jobs:
 
       - uses: actions/checkout@93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8 # v3.1.0
         with: 
-          repository: 'https://github.com/openethereum/parity-ethereum'
+          repository: 'openethereum/parity-ethereum'
 
       - uses: actions-rs/toolchain@16499b5e05bf2e26879000db0c1d13f7e13fa3af # v1.0.7
         with:
