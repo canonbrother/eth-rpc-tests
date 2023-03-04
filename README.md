@@ -1,1 +1,1 @@
-a quick-n-dirty ethereum test suite
+a **quick-n-dirty** ethereum rpc test suite
